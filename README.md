@@ -1,6 +1,6 @@
 # lmgfy-cli
 
-![placeholder][https://user-images.githubusercontent.com/16429579/26994876-07f64e86-4d6a-11e7-85db-e37391fd917d.png]
+![placeholder](https://user-images.githubusercontent.com/16429579/26994876-07f64e86-4d6a-11e7-85db-e37391fd917d.png)
 > Let Me Google That For You - Client
 
 ## Installation

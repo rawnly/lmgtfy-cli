@@ -1,6 +1,6 @@
 {
   "name": "lmgtfy-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Let Me Google That For You - Client ",
   "main": "main.js",
   "repository": "https://github.com/rawnly/lmgtfy-cli",

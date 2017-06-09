@@ -18,7 +18,6 @@ or **yarn**
 
 ## Usage
 ```bash
- $ lmgfy --help
    Let Me Google That For You - Client
 
 

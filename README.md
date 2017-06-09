@@ -1,25 +1,25 @@
 # lmgfy-cli
 
-![placeholder][img_url]
-> Let Me Google That For You - Client 
+![placeholder][https://user-images.githubusercontent.com/16429579/26994876-07f64e86-4d6a-11e7-85db-e37391fd917d.png]
+> Let Me Google That For You - Client
 
 ## Installation
-To install **lmgfy-cli** you need 
-to use a **node package manager** as **npm** 
+To install **lmgfy-cli** you need
+to use a **node package manager** as **npm**
 or **yarn**
 
 ```bash
     $ npm install lmgfy-cli --global
-    
+
     # or with shorthands
-    
-    $npm i -g lmgfy-cli 
+
+    $npm i -g lmgfy-cli
 ```
 
 ## Usage
 ```bash
  $ lmgfy --help
-   Let Me Google That For You - Client 
+   Let Me Google That For You - Client
 
 
 
@@ -41,7 +41,7 @@ or **yarn**
   - [x] macOs
   - [x] Windows
   - [x] Linux Systems
-  
+
 ## Credits
 File generated with [readme generator](https://rawnly.com/readme_generator) by [@Rawnly](https://rawnly.com).
 

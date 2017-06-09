@@ -1,7 +1,7 @@
-# lmgfy-cli
+# LMGTFY-CLI
 
 ![placeholder](https://user-images.githubusercontent.com/16429579/26994876-07f64e86-4d6a-11e7-85db-e37391fd917d.png)
-> Let Me Google That For You - Client
+> [Let Me Google That For You][home] - Client
 
 ## Installation
 To install **lmgfy-cli** you need
@@ -42,6 +42,7 @@ or **yarn**
   - [x] Linux Systems
 
 ## Credits
-File generated with [readme generator](https://rawnly.com/readme_generator) by [@Rawnly](https://rawnly.com).
+File generated with [readme generator](https://rawnly.com/projects/rmd-gen/) by [@Rawnly](https://rawnly.com).
 
 [img_url]: https://placehold.it/1920x1080?text=lmgfy-cli+Screenshot
+[home]: https://lmgtfy.com
